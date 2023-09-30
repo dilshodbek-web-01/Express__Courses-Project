@@ -1,0 +1,37 @@
+[
+    {
+        "id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d",
+        "username": "Dilshodbek",
+        "email": "Dilshodbek@gmail.com",
+        "imagePath": "./media/96fe70c3-e378-4766-b96a-c1bdb407e656summer.jpg",
+        "password": "$2a$12$gyX/g767lXX.SjpKrp8CSeDHbOxuv63RtOHWtu7xvq2c656ElhSVC"
+    },
+    {
+        "id": "904e74dc-15f0-43f6-968b-e47755b978bf",
+        "username": "Ismoil",
+        "email": "Ismoil@gmail.com",
+        "imagePath": "./media/584b152c-6f88-487d-a6d2-c34a2efbb8e7nature.jpg",
+        "password": "$2a$12$4bdKSLoc2msb22FBdAP.o.wZx5f0c03YmDvb4attMv1Ckh1JUICpG"
+    },
+    {
+        "id": "0f3e5f7c-bc71-4afd-9f8e-9f67cf15aaee",
+        "username": "Lochinbek",
+        "email": "Lochinbek@gmail.com",
+        "imagePath": "./media/4f4b59d2-6c2c-498c-af96-856ec47dec60winter.jpg",
+        "password": "$2a$12$2rDumowdIudbvTsyfGc1u.mQal87kCuxjd1ffycIOCMx6Uqorepuq"
+    },
+    {
+        "id": "fd065b6a-ee55-4d71-ab2d-110698f32111",
+        "username": "Sherzodbek",
+        "email": "Sherzodbek@gmail.com",
+        "imagePath": "./media/3082ba2b-8557-4d37-9b22-ca4e335f3b45nature.jpg",
+        "password": "$2a$12$35GMQsYp9ZXWKbmHOV7Eb.UwnvxhKGPlz8WIBhDoX/Ox6TCDvOYZy"
+    },
+    {
+        "id": "6deb5bec-c705-4987-8329-3289bc45cfd5",
+        "username": "Kamolbek",
+        "email": "Kamolbek@gmail.com",
+        "imagePath": "./media/900e2e24-7f20-40e7-8ea3-22a808067367spring.jpg",
+        "password": "$2a$12$pFAV/BOeaapHzpr/rX4juON3AHa1S6m.iF/Hvrx09KdBXgOuc2L5K"
+    }
+]

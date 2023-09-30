@@ -1,0 +1,82 @@
+[
+    {
+        "id": "fca7cc6e-085f-45f3-9700-9dee611d91b7",
+        "title": "React",
+        "price": "150000",
+        "author": "React Teacher",
+        "imagePath": "./media/6f242932-d379-473c-8f0c-9f0ebc5644e4summer.jpg",
+        "user_id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d"
+    },
+    {
+        "id": "cf21d1e0-7684-4785-bf15-9f2656be9fa4",
+        "title": "Vue",
+        "price": "70000",
+        "author": "Vue Teacher",
+        "imagePath": "/media/da9a0162-cb56-4052-b28b-a9e3e63908f8winter.jpg",
+        "user_id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d"
+    },
+    {
+        "id": "c1d83a22-d74f-4a1e-9354-8be1ec3dff63",
+        "title": "JavaScript",
+        "price": "150000",
+        "author": "JavaScript Teacher",
+        "imagePath": "./media/fa8861c8-d717-48ad-bd79-b6773cce0ea6spring.jpg",
+        "user_id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d"
+    },
+    {
+        "id": "2a27e6a2-88b5-40f8-816d-42af8c25afe8",
+        "title": "nodeJs",
+        "price": "150000",
+        "author": "nodeJs Teacher",
+        "imagePath": "./media/4c05f7c3-b3ab-42f6-af04-27588e52ab3cspring.jpg",
+        "user_id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d"
+    },
+    {
+        "id": "5ddc2ae4-bad9-48c4-9dcd-fd82dc61dba4",
+        "title": "Angular",
+        "price": "150000",
+        "author": "Angular Teacher",
+        "imagePath": "./media/82037880-84f7-48d9-8fe7-62729a8d5a1dspring.jpg",
+        "user_id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d"
+    },
+    {
+        "id": "fd0da502-e4b7-4378-9fbb-5620588f4bc8",
+        "title": "PHP",
+        "price": "150000",
+        "author": "PHP Teacher",
+        "imagePath": "./media/e791e449-b314-45be-a0d2-65dff0fc58b7spring.jpg",
+        "user_id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d"
+    },
+    {
+        "id": "ea1ce317-dd76-4537-a69b-2de06384bd13",
+        "title": "FrontEnd",
+        "price": "150000",
+        "author": "FrontEnd Teacher",
+        "imagePath": "./media/f933782c-90bd-4cd7-a013-5f3fa35583c3spring.jpg",
+        "user_id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d"
+    },
+    {
+        "id": "17c6ccd6-4d2d-4f54-8e63-c2cc58a423db",
+        "title": "BackEnd",
+        "price": "150000",
+        "author": "BackEnd Teacher",
+        "imagePath": "./media/03b254ca-cafa-461a-b4df-9e1f0316a97dspring.jpg",
+        "user_id": "f3df2b69-0be3-49c1-b4d5-bec531d0852d"
+    },
+    {
+        "id": "c43f1fd7-3e72-437d-bc7c-ddf6a3e0c236",
+        "title": "Vue.js",
+        "price": "70000",
+        "author": "Vue.js Teacher",
+        "imagePath": "/media/a4fc7063-f5c2-4e88-b865-4714de5483b6summer.jpg",
+        "user_id": "c4caa9ca-79ca-4458-afd1-9473c4c42980"
+    },
+    {
+        "id": "3400c213-7d3d-4066-82ba-2895f95c954b",
+        "title": "Title",
+        "price": "150000",
+        "author": "Title Teacher",
+        "imagePath": "./media/475fdf14-7ce3-4783-82fc-0b01feb5715espring.jpg",
+        "user_id": "c4caa9ca-79ca-4458-afd1-9473c4c42980"
+    }
+]
